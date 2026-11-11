@@ -15,7 +15,7 @@
         </Text>
         <!-- Boosted Description -->
         <Text>
-            <Text>"Ohne ein Bad ist Seife nur teilweise nützlich." (2x Bäder on Island)</Text>
+            <Text>"Ohne ein Bad ist Seife nur teilweise nützlich." (2x Bäder auf Insel)</Text>
             <LineId>1600000046</LineId> 
         </Text>
         </ModOp>
@@ -79,7 +79,7 @@
         </Text>
         <!-- Description -->
         <Text>
-            <Text>Brät den Braten sehr schnell... leider nicht lang genug. &#xD;Hinweis: Der Effekt wirkt auf alle Wohngebäude in Straßenreichweite des Ältestensrats.&#xD;(Altdolphin-Consumption-Pack)</Text>
+            <Text>Brät den Braten sehr schnell... leider nicht lang genug.&#xD;(Altdolphin-Consumption-Pack)</Text>
             <LineId>1600000171</LineId> 
         </Text>
         </ModOp>
@@ -95,7 +95,7 @@
         </Text>
         <!-- Description -->
         <Text>
-            <Text>Nutzt die Theaterbühne um seine erste Toga-Kollektion vorzustellen. &#xD;Hinweis: Der Effekt wirkt auf alle Wohnhäuser in Straßenreichweite des Theaters.&#xD;(Altdolphin-Consumption-Pack)</Text>
+            <Text>Nutzt die Theaterbühne um seine erste Toga-Kollektion vorzustellen.&#xD;(Altdolphin-Consumption-Pack)</Text>
             <LineId>1600000183</LineId> 
         </Text>
         </ModOp>
@@ -111,7 +111,7 @@
         </Text>
         <!-- Description -->
         <Text>
-            <Text>Bringt die Leute so richtig ins Schwitzen. Jeder sollte ein extra Set an Hosten parat haben. &#xD;Hinweis: Der Effekt wirkt auf alle Wohngebäude in Straßenreichweite der Wettkampfwiese.&#xD;(Altdolphin-Consumption-Pack)</Text>
+            <Text>Bringt die Leute so richtig ins Schwitzen. Jeder sollte ein extra Set an Hosten parat haben. &#xD;(Altdolphin-Consumption-Pack)</Text>
             <LineId>1600000263</LineId> 
         </Text>
         </ModOp>
@@ -127,7 +127,7 @@
         </Text>
         <!-- Description -->
         <Text>
-            <Text>Kam auf die Idee den Käse zu schmelzen und mit einer Süßfrucht zu kombinieren. Einige lieben diese experimentelle Küche, andere Hassen es und lassen ihrer Wut freien Lauf. &#xD;Hinweis: Der Effekt wirkt auf alle Wohngebäude in Straßenreichweite des Markts oder Forums.&#xD;(Altdolphin-Consumption-Pack)</Text>
+            <Text>Kam auf die Idee den Käse zu schmelzen und mit einer Süßfrucht zu kombinieren. Einige lieben diese experimentelle Küche, andere Hassen es und lassen ihrer Wut freien Lauf. &#xD;(Altdolphin-Consumption-Pack)</Text>
             <LineId>1600000314</LineId> 
         </Text>
         </ModOp>
@@ -350,7 +350,7 @@
         </Text>
         <!-- Boosted Hint -->
         <Text>
-            <Text>Hat eine Schwäche für Glückspiel. (2x Aleatorium auf Insel)</Text>
+            <Text>"Natürlich halte ich bei jeder einzelnen Truppenparade triumphierend die geräucherte Blutwurst in die Luft, um für die germanischen Auxillare ‚bodenständig‘ zu wirken – beim Jupiter, ein Söldner braucht einen guten Ruf! Was denkt ihr eigentlich, was ich bin?! Irgendein skrupelloser Wurst-Demagoge?!" &#xD;(500 Sausages in Storage)</Text>
             <LineId>1600000143</LineId> 
         </Text>
         </ModOp>
@@ -366,7 +366,7 @@
         </Text>
         <!-- Description -->
         <Text>
-            <Text>Immer am Reparieren von Sachen um Erfahrung zu sammeln.&#xD;(Altdolphin-Consumption-Pack)</Text>
+            <Text>Immer am Reparieren von Sachen um Erfahrung zu sammeln. Hat eine Schwäche für leckere Datteln. &#xD;(Altdolphin-Consumption-Pack)</Text>
             <LineId>1600000032</LineId> 
         </Text>
         </ModOp>
