@@ -62,8 +62,30 @@
                     <SourceCategory>Item</SourceCategory>
                 </Buff>
                 <ResidenceUpgrade>
-                  <ConsumptionModifierInPercent>-5</ConsumptionModifierInPercent>
+                  <ConsumptionModifierInPercent>-7</ConsumptionModifierInPercent>
                 </ResidenceUpgrade>
+                <BuildingUpgrade>
+                    <AdditionalAttributes>
+                        <Happiness>
+                            <AmountOrPercent>
+                                <Value>-1</Value>
+                                <Percental>0</Percental>
+                            </AmountOrPercent>
+                        </Happiness>
+                        <FireSafety>
+                            <AmountOrPercent>
+                                <Value>-1</Value>
+                                <Percental>0</Percental>
+                            </AmountOrPercent>
+                        </FireSafety>
+                        <Health>
+                            <AmountOrPercent>
+                                <Value>-1</Value>
+                                <Percental>0</Percental>
+                            </AmountOrPercent>
+                        </Health>
+                    </AdditionalAttributes>
+                </BuildingUpgrade>
             </Values>
         </Asset>
     </ModOp>

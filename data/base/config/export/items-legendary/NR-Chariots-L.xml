@@ -152,18 +152,6 @@
                             </Item>
                         </ChangeNeedAttributesOf>
                         <AdditionalNeedAttributes>
-                            <Population>
-                                <AmountOrPercent>
-                                    <Value>0</Value>
-                                    <Percental>0</Percental>
-                                </AmountOrPercent>
-                            </Population>
-                            <Happiness>
-                                <AmountOrPercent>
-                                    <Value>0</Value>
-                                    <Percental>0</Percental>
-                                </AmountOrPercent>
-                            </Happiness>
                             <Prestige>
                                 <AmountOrPercent>
                                     <Value>2</Value>
@@ -212,21 +200,9 @@
                             </Item>
                         </ChangeNeedAttributesOf>
                         <AdditionalNeedAttributes>
-                            <Population>
-                                <AmountOrPercent>
-                                    <Value>0</Value>
-                                    <Percental>0</Percental>
-                                </AmountOrPercent>
-                            </Population>
-                            <Happiness>
-                                <AmountOrPercent>
-                                    <Value>1</Value>
-                                    <Percental>0</Percental>
-                                </AmountOrPercent>
-                            </Happiness>
                             <Prestige>
                                 <AmountOrPercent>
-                                    <Value>2</Value>
+                                    <Value>3</Value>
                                     <Percental>0</Percental>
                                 </AmountOrPercent>
                             </Prestige>

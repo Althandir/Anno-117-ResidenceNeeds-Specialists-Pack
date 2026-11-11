@@ -97,6 +97,10 @@
     "ConsumptionModifier_Legendary":
     {
       "default": "25.0"
+    },
+    "NeedReward_Rare_Religious_Goods":
+    {
+      "default": "3"
     }
   }
 

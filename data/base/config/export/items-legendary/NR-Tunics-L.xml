@@ -136,7 +136,7 @@
                             </Health>
                             <Knowledge>
                                 <AmountOrPercent>
-                                    <Value>1</Value>
+                                    <Value>2</Value>
                                     <Percental>0</Percental>
                                 </AmountOrPercent>
                             </Knowledge>
@@ -178,7 +178,7 @@
                     <AdditionalNeedAttributes>
                         <Population>
                             <AmountOrPercent>
-                                <Value>3</Value>
+                                <Value>4</Value>
                                 <Percental>0</Percental>
                             </AmountOrPercent>
                         </Population>
@@ -190,7 +190,7 @@
                         </Health>
                         <Knowledge>
                             <AmountOrPercent>
-                                <Value>1</Value>
+                                <Value>2</Value>
                                 <Percental>0</Percental>
                             </AmountOrPercent>
                         </Knowledge>

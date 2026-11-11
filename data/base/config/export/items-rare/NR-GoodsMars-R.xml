@@ -91,7 +91,7 @@
                         <AdditionalNeedAttributes>
                             <Belief>
                                 <AmountOrPercent>
-                                    <Value>2</Value>
+                                    <Value><ModValue Insert="$NeedReward_Rare_Religious_Goods"/></Value>
                                     <Percental>0</Percental>
                                 </AmountOrPercent>
                             </Belief>

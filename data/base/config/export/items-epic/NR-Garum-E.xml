@@ -83,7 +83,7 @@
                             </Money>
                             <Happiness>
                                 <AmountOrPercent>
-                                <Value>2</Value>
+                                <Value>3</Value>
                                 <Percental>0</Percental>
                                 </AmountOrPercent>
                             </Happiness>
@@ -96,15 +96,6 @@
                         </AdditionalNeedAttributes>
                     </NeedProvidedNeedAttributes>
                 </ResidenceUpgrade>
-                <FactoryUpgrade/>
-                <ModuleOwnerUpgrade/>
-                <MaintenanceUpgrade/>
-                <CityInstitutionUpgrade/>
-                <IncidentInfectableUpgrade/>
-                <RecruitmentUpgrade/>
-                <AqueductUpgrade/>
-                <WarehouseUpgrade/>
-                <IrrigationUpgrade/>
             </Values>
         </Asset>
     </ModOp>

@@ -80,6 +80,12 @@
                                         <Percental>0</Percental>
                                     </AmountOrPercent>
                                 </Health>
+                                <Money>
+                                    <AmountOrPercent>
+                                        <Value>1</Value>
+                                        <Percental>0</Percental>
+                                    </AmountOrPercent>
+                                </Money>
                                 <FireSafety>
                                     <AmountOrPercent>
                                         <Value>3</Value>

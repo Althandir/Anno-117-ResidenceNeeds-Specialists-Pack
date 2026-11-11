@@ -77,10 +77,16 @@
                         <AdditionalNeedAttributes>
                             <Money>
                                 <AmountOrPercent>
-                                    <Value>1</Value>
+                                    <Value>3</Value>
                                     <Percental>0</Percental>
                                 </AmountOrPercent>
                             </Money>
+                            <Happiness>
+                                <AmountOrPercent>
+                                    <Value>-1</Value>
+                                    <Percental>0</Percental>
+                                </AmountOrPercent>
+                            </Happiness>
                             <FireSafety>
                                 <AmountOrPercent>
                                     <Value>2</Value>

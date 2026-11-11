@@ -134,6 +134,12 @@
                                     <Percental>0</Percental>
                                 </AmountOrPercent>
                             </Belief>
+                            <Knowledge>
+                                <AmountOrPercent>
+                                    <Value>-1</Value>
+                                    <Percental>0</Percental>
+                                </AmountOrPercent>
+                            </Knowledge>
                         </AdditionalNeedAttributes>
                     </NeedProvidedNeedAttributes>
                 </ResidenceUpgrade>
@@ -179,16 +185,22 @@
                             </Money>
                             <Belief>
                                 <AmountOrPercent>
-                                    <Value>1</Value>
+                                    <Value>2</Value>
                                     <Percental>0</Percental>
                                 </AmountOrPercent>
                             </Belief>                            
                             <Prestige>
                                 <AmountOrPercent>
-                                    <Value>2</Value>
+                                    <Value>3</Value>
                                     <Percental>0</Percental>
                                 </AmountOrPercent>
                             </Prestige>
+                            <Knowledge>
+                                <AmountOrPercent>
+                                    <Value>-1</Value>
+                                    <Percental>0</Percental>
+                                </AmountOrPercent>
+                            </Knowledge>
                         </AdditionalNeedAttributes>
                     </NeedProvidedNeedAttributes>
                 </ResidenceUpgrade>

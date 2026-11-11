@@ -136,7 +136,7 @@
                             </Money>
                             <Belief>
                                 <AmountOrPercent>
-                                    <Value>2</Value>
+                                    <Value>3</Value>
                                     <Percental>0</Percental>
                                 </AmountOrPercent>
                             </Belief>
@@ -192,13 +192,13 @@
                         <AdditionalNeedAttributes>
                             <Money>
                                 <AmountOrPercent>
-                                    <Value>1</Value>
+                                    <Value>2</Value>
                                     <Percental>0</Percental>
                                 </AmountOrPercent>
                             </Money>
                             <Belief>
                                 <AmountOrPercent>
-                                    <Value>3</Value>
+                                    <Value>4</Value>
                                     <Percental>0</Percental>
                                 </AmountOrPercent>
                             </Belief>

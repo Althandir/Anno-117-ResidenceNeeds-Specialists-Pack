@@ -121,9 +121,15 @@
                 </Item>
               </ChangeNeedAttributesOf>
               <AdditionalNeedAttributes>
+                <Knowledge>
+                  <AmountOrPercent>
+                    <Value>1</Value>
+                    <Percental>0</Percental>
+                  </AmountOrPercent>
+                </Knowledge>
                 <Health>
                   <AmountOrPercent>
-                    <Value>3</Value>
+                    <Value>4</Value>
                     <Percental>0</Percental>
                   </AmountOrPercent>
                 </Health>
@@ -170,9 +176,15 @@
                     <Percental>0</Percental>
                   </AmountOrPercent>
                 </Population>
+                <Knowledge>
+                  <AmountOrPercent>
+                    <Value>1</Value>
+                    <Percental>0</Percental>
+                  </AmountOrPercent>
+                </Knowledge>
                 <Health>
                   <AmountOrPercent>
-                    <Value>4</Value>
+                    <Value>5</Value>
                     <Percental>0</Percental>
                   </AmountOrPercent>
                 </Health>
