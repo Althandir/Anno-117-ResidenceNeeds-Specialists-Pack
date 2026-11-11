@@ -123,6 +123,12 @@
                 </Item>
               </ChangeNeedAttributesOf>
               <AdditionalNeedAttributes>
+                <Money>
+                  <AmountOrPercent>
+                    <Value>-1</Value>
+                    <Percental>0</Percental>
+                  </AmountOrPercent>
+                </Money>
                 <Happiness>
                   <AmountOrPercent>
                     <Value>2</Value>
@@ -131,7 +137,7 @@
                 </Happiness>
                 <FireSafety>
                   <AmountOrPercent>
-                    <Value>3</Value>
+                    <Value>4</Value>
                     <Percental>0</Percental>
                   </AmountOrPercent>
                 </FireSafety>
@@ -187,21 +193,21 @@
                 </Item>
               </ChangeNeedAttributesOf>
               <AdditionalNeedAttributes>
+                <Money>
+                  <AmountOrPercent>
+                    <Value>-1</Value>
+                    <Percental>0</Percental>
+                  </AmountOrPercent>
+                </Money>
                 <Happiness>
                   <AmountOrPercent>
-                    <Value>3</Value>
+                    <Value>4</Value>
                     <Percental>0</Percental>
                   </AmountOrPercent>
                 </Happiness>
-                <Health>
-                  <AmountOrPercent>
-                    <Value>1</Value>
-                    <Percental>0</Percental>
-                  </AmountOrPercent>
-                </Health>
                 <FireSafety>
                   <AmountOrPercent>
-                    <Value>3</Value>
+                    <Value>4</Value>
                     <Percental>0</Percental>
                   </AmountOrPercent>
                 </FireSafety>
