@@ -8,7 +8,7 @@
           <Standard>
             <GUID>1600000313</GUID>
             <Name>Specialist NR-Cheese-E</Name>
-            <IconFilename>data/base/graphics/icons/Consump-Pack/c_m_NR-Cheese-E.png</IconFilename>
+            <IconFilename>data/base/graphics/icons/ResiNeeds-Pack/NR-Cheese-E.png</IconFilename>
             <InfoDescription>1600000314</InfoDescription>
           </Standard>
           <Effect>
@@ -53,7 +53,7 @@
           <Standard>
             <GUID>1600000314</GUID>
             <Name>Specialist NR-Cheese-E BuildingBuff</Name>
-            <IconFilename>data/base/graphics/icons/Consump-Pack/c_m_NR-Cheese-E.png</IconFilename>
+            <IconFilename>data/base/graphics/icons/ResiNeeds-Pack/NR-Cheese-E.png</IconFilename>
           </Standard>
           <Text>
             <OasisId>1600000313</OasisId>
@@ -95,7 +95,7 @@
                 </Happiness>
                 <Knowledge>
                   <AmountOrPercent>
-                    <Value>1</Value>
+                    <Value>2</Value>
                     <Percental>0</Percental>
                   </AmountOrPercent>
                 </Knowledge>

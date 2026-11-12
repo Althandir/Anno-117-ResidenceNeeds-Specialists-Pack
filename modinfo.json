@@ -1,5 +1,5 @@
 {
-  "ModID": "althandir-altdolphin-specialists-consumption-pack",
+  "ModID": "althandir-altdolphin-specialists-residenceneeds-pack",
   "Version": "3.0.0",
   "Anno": 8,
   "IncompatibleIds": null,
@@ -97,6 +97,10 @@
     "ConsumptionModifier_Legendary":
     {
       "default": "25.0"
+    },
+    "NeedReward_Rare_Religious_Goods":
+    {
+      "default": "3"
     }
   }
 

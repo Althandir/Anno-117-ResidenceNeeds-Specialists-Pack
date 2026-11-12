@@ -8,7 +8,7 @@
             <Standard>
                 <GUID>1600000158</GUID>
                 <Name>Specialist NR-Wigs-R</Name>
-                <IconFilename>data/base/graphics/icons/Consump-Pack/NR-Wigs-R.png</IconFilename>
+                <IconFilename>data/base/graphics/icons/ResiNeeds-Pack/NR-Wigs-R.png</IconFilename>
                 <InfoDescription>1600000159</InfoDescription>
             </Standard>
             <Effect>
@@ -52,7 +52,7 @@
                     <Standard>
                         <GUID>1600000159</GUID>
                         <Name>Specialist NR-Wigs-R BuildingBuff</Name>
-                        <IconFilename>data/base/graphics/icons/Consump-Pack/NR-Wigs-R.png</IconFilename>
+                        <IconFilename>data/base/graphics/icons/ResiNeeds-Pack/NR-Wigs-R.png</IconFilename>
                     </Standard>
                     <Text>
                         <OasisId>1600000158</OasisId>
@@ -80,6 +80,12 @@
                                         <Percental>0</Percental>
                                     </AmountOrPercent>
                                 </Health>
+                                <Money>
+                                    <AmountOrPercent>
+                                        <Value>1</Value>
+                                        <Percental>0</Percental>
+                                    </AmountOrPercent>
+                                </Money>
                                 <FireSafety>
                                     <AmountOrPercent>
                                         <Value>3</Value>

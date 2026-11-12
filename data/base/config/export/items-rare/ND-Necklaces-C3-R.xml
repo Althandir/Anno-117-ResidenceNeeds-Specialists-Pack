@@ -8,7 +8,7 @@
           <Standard>
             <GUID>1600001207</GUID>
             <Name>Specialist ND-Necklaces-C3-R</Name>
-            <IconFilename>data/base/graphics/icons/Consump-Pack/ND-Necklaces-C3-R.png</IconFilename>
+            <IconFilename>data/base/graphics/icons/ResiNeeds-Pack/ND-Necklaces-C3-R.png</IconFilename>
             <InfoDescription>1600001208</InfoDescription>
           </Standard>
           <Effect>
@@ -52,7 +52,7 @@
           <Standard>
             <GUID>1600001208</GUID>
             <Name>Specialist ND-Necklaces-C3-R BuildingBuff</Name>
-            <IconFilename>data/base/graphics/icons/Consump-Pack/ND-Necklaces-C3-R.png</IconFilename>
+            <IconFilename>data/base/graphics/icons/ResiNeeds-Pack/ND-Necklaces-C3-R.png</IconFilename>
           </Standard>
           <Text>
             <OasisId>1600001207</OasisId>

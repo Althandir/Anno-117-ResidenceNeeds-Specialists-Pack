@@ -8,7 +8,7 @@
             <Standard>
                 <GUID>1600000568</GUID>
                 <Name>Specialist NR-GoodsMars-R</Name>
-                <IconFilename>data/base/graphics/icons/Consump-Pack/NR-Mars-R.png</IconFilename>
+                <IconFilename>data/base/graphics/icons/ResiNeeds-Pack/NR-Mars-R.png</IconFilename>
                 <InfoDescription>1600000569</InfoDescription>
             </Standard>
             <Effect>
@@ -53,7 +53,7 @@
                 <Standard>
                     <GUID>1600000569</GUID>
                     <Name>Specialist NR-GoodsMars-R BuildingBuff</Name>
-                    <IconFilename>data/base/graphics/icons/Consump-Pack/NR-Mars-R.png</IconFilename>
+                    <IconFilename>data/base/graphics/icons/ResiNeeds-Pack/NR-Mars-R.png</IconFilename>
                 </Standard>
                 <Text>
                     <OasisId>1600000568</OasisId>
@@ -91,7 +91,7 @@
                         <AdditionalNeedAttributes>
                             <Belief>
                                 <AmountOrPercent>
-                                    <Value>2</Value>
+                                    <Value><ModValue Insert="$NeedReward_Rare_Religious_Goods"/></Value>
                                     <Percental>0</Percental>
                                 </AmountOrPercent>
                             </Belief>

@@ -8,7 +8,7 @@
           <Standard>
             <GUID>1600000031</GUID>
             <Name>Specialist NR-T1Regional-C</Name>
-            <IconFilename>data/base/graphics/icons/Consump-Pack/NR-T1Regional-C.png</IconFilename>
+            <IconFilename>data/base/graphics/icons/ResiNeeds-Pack/NR-T1Regional-C.png</IconFilename>
             <InfoDescription>1600000032</InfoDescription>
           </Standard>
           <Effect>
@@ -53,7 +53,7 @@
           <Standard>
             <GUID>1600000032</GUID>
             <Name>Specialist NR-T1Regional-C BuildingBuff</Name>
-            <IconFilename>data/base/graphics/icons/Consump-Pack/NR-T1Regional-C.png</IconFilename>
+            <IconFilename>data/base/graphics/icons/ResiNeeds-Pack/NR-T1Regional-C.png</IconFilename>
           </Standard>
           <Text>
             <OasisId>1600000031</OasisId>

@@ -8,7 +8,7 @@
         <Standard>
             <GUID>1600000385</GUID>
             <Name>Specialist NR-Necklaces-L</Name>
-            <IconFilename>data/base/graphics/icons/Consump-Pack/NR-Necklaces-L.png</IconFilename>
+            <IconFilename>data/base/graphics/icons/ResiNeeds-Pack/NR-Necklaces-L.png</IconFilename>
             <InfoDescription>1600000386</InfoDescription>
         </Standard>
         <Effect>
@@ -100,7 +100,7 @@
                 <Standard>
                     <GUID>1600000386</GUID>
                     <Name>Specialist NR-Necklaces-L BuildingBuff</Name>
-                    <IconFilename>data/base/graphics/icons/Consump-Pack/NR-Necklaces-L.png</IconFilename>
+                    <IconFilename>data/base/graphics/icons/ResiNeeds-Pack/NR-Necklaces-L.png</IconFilename>
                 </Standard>
                 <Text>
                     <OasisId>1600000385</OasisId>
@@ -134,6 +134,12 @@
                                     <Percental>0</Percental>
                                 </AmountOrPercent>
                             </Belief>
+                            <Knowledge>
+                                <AmountOrPercent>
+                                    <Value>-1</Value>
+                                    <Percental>0</Percental>
+                                </AmountOrPercent>
+                            </Knowledge>
                         </AdditionalNeedAttributes>
                     </NeedProvidedNeedAttributes>
                 </ResidenceUpgrade>
@@ -149,7 +155,7 @@
                 <Standard>
                     <GUID>1600000387</GUID>
                     <Name>Specialist NR-Necklaces-L BuildingBuff</Name>
-                    <IconFilename>data/base/graphics/icons/Consump-Pack/NR-Necklaces-L.png</IconFilename>
+                    <IconFilename>data/base/graphics/icons/ResiNeeds-Pack/NR-Necklaces-L.png</IconFilename>
                 </Standard>
                 <Text>
                     <OasisId>1600000385</OasisId>
@@ -179,16 +185,22 @@
                             </Money>
                             <Belief>
                                 <AmountOrPercent>
-                                    <Value>1</Value>
+                                    <Value>2</Value>
                                     <Percental>0</Percental>
                                 </AmountOrPercent>
                             </Belief>                            
                             <Prestige>
                                 <AmountOrPercent>
-                                    <Value>2</Value>
+                                    <Value>3</Value>
                                     <Percental>0</Percental>
                                 </AmountOrPercent>
                             </Prestige>
+                            <Knowledge>
+                                <AmountOrPercent>
+                                    <Value>-1</Value>
+                                    <Percental>0</Percental>
+                                </AmountOrPercent>
+                            </Knowledge>
                         </AdditionalNeedAttributes>
                     </NeedProvidedNeedAttributes>
                 </ResidenceUpgrade>

@@ -8,7 +8,7 @@
             <Standard>
                 <GUID>1600000160</GUID>
                 <Name>Specialist NR-FineGlass-R</Name>
-                <IconFilename>data/base/graphics/icons/Consump-Pack/NR-FineGlass-R.png</IconFilename>
+                <IconFilename>data/base/graphics/icons/ResiNeeds-Pack/NR-FineGlass-R.png</IconFilename>
                 <InfoDescription>1600000161</InfoDescription>
             </Standard>
             <Effect>
@@ -53,7 +53,7 @@
                 <Standard>
                 <GUID>1600000161</GUID>
                 <Name>Specialist NR-FineGlass-R BuildingBuff</Name>
-                <IconFilename>data/base/graphics/icons/Consump-Pack/NR-FineGlass-R.png</IconFilename>
+                <IconFilename>data/base/graphics/icons/ResiNeeds-Pack/NR-FineGlass-R.png</IconFilename>
                 </Standard>
                 <Text>
                     <OasisId>1600000160</OasisId>
@@ -77,13 +77,13 @@
                         <AdditionalNeedAttributes>
                             <Money>
                                 <AmountOrPercent>
-                                    <Value>2</Value>
+                                    <Value>3</Value>
                                     <Percental>0</Percental>
                                 </AmountOrPercent>
                             </Money>
                             <Prestige>
                                 <AmountOrPercent>
-                                    <Value>2</Value>
+                                    <Value>3</Value>
                                     <Percental>0</Percental>
                                 </AmountOrPercent>
                             </Prestige>
