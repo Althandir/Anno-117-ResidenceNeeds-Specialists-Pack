@@ -8,7 +8,7 @@
         <Standard>
             <GUID>1600000385</GUID>
             <Name>Specialist NR-Necklaces-L</Name>
-            <IconFilename>data/base/graphics/icons/Consump-Pack/NR-Necklaces-L.png</IconFilename>
+            <IconFilename>data/base/graphics/icons/ResiNeeds-Pack/NR-Necklaces-L.png</IconFilename>
             <InfoDescription>1600000386</InfoDescription>
         </Standard>
         <Effect>
@@ -100,7 +100,7 @@
                 <Standard>
                     <GUID>1600000386</GUID>
                     <Name>Specialist NR-Necklaces-L BuildingBuff</Name>
-                    <IconFilename>data/base/graphics/icons/Consump-Pack/NR-Necklaces-L.png</IconFilename>
+                    <IconFilename>data/base/graphics/icons/ResiNeeds-Pack/NR-Necklaces-L.png</IconFilename>
                 </Standard>
                 <Text>
                     <OasisId>1600000385</OasisId>
@@ -155,7 +155,7 @@
                 <Standard>
                     <GUID>1600000387</GUID>
                     <Name>Specialist NR-Necklaces-L BuildingBuff</Name>
-                    <IconFilename>data/base/graphics/icons/Consump-Pack/NR-Necklaces-L.png</IconFilename>
+                    <IconFilename>data/base/graphics/icons/ResiNeeds-Pack/NR-Necklaces-L.png</IconFilename>
                 </Standard>
                 <Text>
                     <OasisId>1600000385</OasisId>

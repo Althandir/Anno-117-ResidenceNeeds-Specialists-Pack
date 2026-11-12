@@ -8,7 +8,7 @@
                 <Standard>
                     <GUID>1600000037</GUID>
                     <Name>Specialist NR-Chariots-L</Name>
-                    <IconFilename>data/base/graphics/icons/Consump-Pack/NR-Chariots-L.png</IconFilename>
+                    <IconFilename>data/base/graphics/icons/ResiNeeds-Pack/NR-Chariots-L.png</IconFilename>
                     <InfoDescription>1600000038</InfoDescription>
                 </Standard>
                 <Effect>
@@ -130,7 +130,7 @@
                 <Standard>
                 <GUID>1600000038</GUID>
                 <Name>Specialist NR-Chariots-L BuildingBuff</Name>
-                <IconFilename>data/base/graphics/icons/Consump-Pack/NR-Chariots-L.png</IconFilename>
+                <IconFilename>data/base/graphics/icons/ResiNeeds-Pack/NR-Chariots-L.png</IconFilename>
                 </Standard>
                 <Text>
                     <OasisId>1600000037</OasisId>
@@ -178,7 +178,7 @@
                 <Standard>
                     <GUID>1600000039</GUID>
                     <Name>Specialist NR-Chariots-L Boosted BuildingBuff</Name>
-                    <IconFilename>data/base/graphics/icons/Consump-Pack/NR-Chariots-L.png</IconFilename>
+                    <IconFilename>data/base/graphics/icons/ResiNeeds-Pack/NR-Chariots-L.png</IconFilename>
                 </Standard>
                 <Text>
                     <OasisId>1600000037</OasisId>

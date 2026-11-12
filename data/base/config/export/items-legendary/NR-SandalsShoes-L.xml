@@ -8,7 +8,7 @@
         <Standard>
             <GUID>1600000035</GUID>
             <Name>Specialist NR-SandalsShoes-L</Name>
-            <IconFilename>data/base/graphics/icons/Consump-Pack/NR-SandalsShoes-L.png</IconFilename>
+            <IconFilename>data/base/graphics/icons/ResiNeeds-Pack/NR-SandalsShoes-L.png</IconFilename>
             <InfoDescription>1600000036</InfoDescription>
         </Standard>
         <Effect>
@@ -99,7 +99,7 @@
                 <Standard>
                     <GUID>1600000036</GUID>
                     <Name>Specialist NR-SandalsShoes-L BuildingBuff</Name>
-                    <IconFilename>data/base/graphics/icons/Consump-Pack/NR-SandalsShoes-L.png</IconFilename>
+                    <IconFilename>data/base/graphics/icons/ResiNeeds-Pack/NR-SandalsShoes-L.png</IconFilename>
                 </Standard>
                 <Text>
                     <OasisId>1600000035</OasisId>
@@ -160,7 +160,7 @@
                 <Standard>
                     <GUID>1600000004</GUID>
                     <Name>Specialist NR-SandalsShoes-L Boosted BuildingBuff</Name>
-                    <IconFilename>data/base/graphics/icons/Consump-Pack/NR-SandalsShoes-L.png</IconFilename>
+                    <IconFilename>data/base/graphics/icons/ResiNeeds-Pack/NR-SandalsShoes-L.png</IconFilename>
                 </Standard>
                 <Text>
                     <OasisId>1600000035</OasisId>

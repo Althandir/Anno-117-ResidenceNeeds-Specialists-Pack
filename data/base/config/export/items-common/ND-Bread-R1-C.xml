@@ -8,7 +8,7 @@
           <Standard>
             <GUID>1600001201</GUID>
             <Name>Specialist ND-Bread-R1-C</Name>
-            <IconFilename>data/base/graphics/icons/Consump-Pack/ND-Bread-R1-C.png</IconFilename>
+            <IconFilename>data/base/graphics/icons/ResiNeeds-Pack/ND-Bread-R1-C.png</IconFilename>
             <InfoDescription>1600001202</InfoDescription>
           </Standard>
           <Effect>
@@ -52,7 +52,7 @@
           <Standard>
             <GUID>1600001202</GUID>
             <Name>Specialist ND-Bread-R1-C BuildingBuff</Name>
-            <IconFilename>data/base/graphics/icons/Consump-Pack/ND-Bread-R1-C.png</IconFilename>
+            <IconFilename>data/base/graphics/icons/ResiNeeds-Pack/ND-Bread-R1-C.png</IconFilename>
           </Standard>
           <Text>
             <OasisId>1600001201</OasisId>

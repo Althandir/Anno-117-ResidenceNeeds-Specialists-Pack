@@ -8,7 +8,7 @@
             <Standard>
                 <GUID>1600000114</GUID>
                 <Name>Specialist NR-Beer-E</Name>
-                <IconFilename>data/base/graphics/icons/Consump-Pack/m_NR-Beer-E.png</IconFilename>
+                <IconFilename>data/base/graphics/icons/ResiNeeds-Pack/m_NR-Beer-E.png</IconFilename>
                 <InfoDescription>1600000115</InfoDescription>
             </Standard>
             <Effect>
@@ -53,7 +53,7 @@
                 <Standard>
                     <GUID>1600000115</GUID>
                     <Name>Specialist NR-Beer-E BuildingBuff</Name>
-                    <IconFilename>data/base/graphics/icons/Consump-Pack/m_NR-Beer-E.png</IconFilename>
+                    <IconFilename>data/base/graphics/icons/ResiNeeds-Pack/m_NR-Beer-E.png</IconFilename>
                 </Standard>
                 <Text>
                     <OasisId>1600000114</OasisId>

@@ -8,7 +8,7 @@
             <Standard>
                 <GUID>1600000104</GUID>
                 <Name>Specialist AllGoods-Red-E</Name>
-                <IconFilename>data/base/graphics/icons/Consump-Pack/c_f_AllGoods-Red-E.png</IconFilename>
+                <IconFilename>data/base/graphics/icons/ResiNeeds-Pack/c_f_AllGoods-Red-E.png</IconFilename>
                 <InfoDescription>1600000105</InfoDescription>
             </Standard>
             <Effect>
@@ -53,7 +53,7 @@
                 <Standard>
                     <GUID>1600000105</GUID>
                     <Name>Specialist AllGoods-Red-E BuildingBuff</Name>
-                    <IconFilename>data/base/graphics/icons/Consump-Pack/c_f_AllGoods-Red-E.png</IconFilename>
+                    <IconFilename>data/base/graphics/icons/ResiNeeds-Pack/c_f_AllGoods-Red-E.png</IconFilename>
                 </Standard>
                 <Text>
                     <OasisId>1600000104</OasisId>

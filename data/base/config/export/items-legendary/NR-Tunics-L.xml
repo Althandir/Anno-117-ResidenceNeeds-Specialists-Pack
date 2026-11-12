@@ -8,7 +8,7 @@
         <Standard>
             <GUID>1600000500</GUID>
             <Name>Specialist NR-Tunics-L</Name>
-            <IconFilename>data/base/graphics/icons/Consump-Pack/NR-Tunics-L.png</IconFilename>
+            <IconFilename>data/base/graphics/icons/ResiNeeds-Pack/NR-Tunics-L.png</IconFilename>
             <InfoDescription>1600000501</InfoDescription>
         </Standard>
         <Effect>
@@ -100,7 +100,7 @@
                 <Standard>
                     <GUID>1600000501</GUID>
                     <Name>Specialist NR-Tunics-L BuildingBuff</Name>
-                    <IconFilename>data/base/graphics/icons/Consump-Pack/NR-Tunics-L.png</IconFilename>
+                    <IconFilename>data/base/graphics/icons/ResiNeeds-Pack/NR-Tunics-L.png</IconFilename>
                 </Standard>
                 <Text>
                     <OasisId>1600000500</OasisId>
@@ -154,7 +154,7 @@
             <Standard>
                 <GUID>1600000502</GUID>
                 <Name>Specialist NR-Tunics-L Boosted BuildingBuff</Name>
-                <IconFilename>data/base/graphics/icons/Consump-Pack/NR-Tunics-L.png</IconFilename>
+                <IconFilename>data/base/graphics/icons/ResiNeeds-Pack/NR-Tunics-L.png</IconFilename>
             </Standard>
             <Text>
                 <OasisId>1600000500</OasisId>

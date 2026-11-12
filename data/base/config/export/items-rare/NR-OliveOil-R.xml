@@ -8,7 +8,7 @@
             <Standard>
                 <GUID>1600000214</GUID>
                 <Name>Specialist NR-OliveOil-R</Name>
-                <IconFilename>data/base/graphics/icons/Consump-Pack/m_NR-OliveOil-R.png</IconFilename>
+                <IconFilename>data/base/graphics/icons/ResiNeeds-Pack/m_NR-OliveOil-R.png</IconFilename>
                 <InfoDescription>1600000215</InfoDescription>
             </Standard>
             <Effect>
@@ -52,7 +52,7 @@
                     <Standard>
                         <GUID>1600000215</GUID>
                         <Name>WorkforceRomanCelticTowers-R BuildingBuff</Name>
-                        <IconFilename>data/base/graphics/icons/Consump-Pack/m_NR-OliveOil-R.png</IconFilename>
+                        <IconFilename>data/base/graphics/icons/ResiNeeds-Pack/m_NR-OliveOil-R.png</IconFilename>
                     </Standard>
                     <Text>
                         <OasisId>1600000214</OasisId>

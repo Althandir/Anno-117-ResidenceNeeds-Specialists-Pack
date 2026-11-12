@@ -8,7 +8,7 @@
             <Standard>
                 <GUID>1600000574</GUID>
                 <Name>Specialist NR-GoodsNeptune-R</Name>
-                <IconFilename>data/base/graphics/icons/Consump-Pack/NR-Neptune-R.png</IconFilename>
+                <IconFilename>data/base/graphics/icons/ResiNeeds-Pack/NR-Neptune-R.png</IconFilename>
                 <InfoDescription>1600000575</InfoDescription>
             </Standard>
             <Effect>
@@ -53,7 +53,7 @@
                 <Standard>
                     <GUID>1600000575</GUID>
                     <Name>Specialist NR-GoodsNeptune-R BuildingBuff</Name>
-                    <IconFilename>data/base/graphics/icons/Consump-Pack/NR-Neptune-R.png</IconFilename>
+                    <IconFilename>data/base/graphics/icons/ResiNeeds-Pack/NR-Neptune-R.png</IconFilename>
                 </Standard>
                 <Text>
                     <OasisId>1600000574</OasisId>

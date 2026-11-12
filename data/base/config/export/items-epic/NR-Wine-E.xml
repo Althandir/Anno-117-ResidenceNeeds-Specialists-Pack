@@ -8,7 +8,7 @@
             <Standard>
                 <GUID>1600000695</GUID>
                 <Name>Specialist NR-Wine-E</Name>
-                <IconFilename>data/base/graphics/icons/Consump-Pack/NR-Wine-E.png</IconFilename>
+                <IconFilename>data/base/graphics/icons/ResiNeeds-Pack/NR-Wine-E.png</IconFilename>
                 <InfoDescription>1600000696</InfoDescription>
             </Standard>
             <Effect>
@@ -53,7 +53,7 @@
                 <Standard>
                     <GUID>1600000696</GUID>
                     <Name>Specialist NR-Wine-E BuildingBuff</Name>
-                    <IconFilename>data/base/graphics/icons/Consump-Pack/NR-Wine-E.png</IconFilename>
+                    <IconFilename>data/base/graphics/icons/ResiNeeds-Pack/NR-Wine-E.png</IconFilename>
                 </Standard>
                 <Text>
                     <OasisId>1600000695</OasisId>
