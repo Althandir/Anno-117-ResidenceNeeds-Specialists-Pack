@@ -8,7 +8,7 @@
           <Standard>
             <GUID>1600000170</GUID>
             <Name>Specialist NR-Roast-R</Name>
-            <IconFilename>data/base/graphics/icons/ResiNeeds-Pack/c_f_NR-Roast-R.png</IconFilename>
+            <IconFilename>data/base/graphics/icons/ResiNeeds-Pack/NR-Roast-R.png</IconFilename>
             <InfoDescription>1600000171</InfoDescription>
           </Standard>
           <Effect>
@@ -52,7 +52,7 @@
           <Standard>
             <GUID>1600000171</GUID>
             <Name>Specialist NR-Roast-R BuildingBuff</Name>
-            <IconFilename>data/base/graphics/icons/ResiNeeds-Pack/c_f_NR-Roast-R.png</IconFilename>
+            <IconFilename>data/base/graphics/icons/ResiNeeds-Pack/NR-Roast-R.png</IconFilename>
           </Standard>
           <Text>
             <OasisId>1600000170</OasisId>

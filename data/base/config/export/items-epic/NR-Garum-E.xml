@@ -8,7 +8,7 @@
             <Standard>
                 <GUID>1600000116</GUID>
                 <Name>Specialist NR-Garum-E</Name>
-                <IconFilename>data/base/graphics/icons/ResiNeeds-Pack/m_NR-Garum-E.png</IconFilename>
+                <IconFilename>data/base/graphics/icons/ResiNeeds-Pack/NR-Garum-E.png</IconFilename>
                 <InfoDescription>1600000117</InfoDescription>
             </Standard>
             <Effect>
@@ -53,7 +53,7 @@
                 <Standard>
                     <GUID>1600000117</GUID>
                     <Name>Specialist NR-Garum-E BuildingBuff</Name>
-                    <IconFilename>data/base/graphics/icons/ResiNeeds-Pack/m_NR-Garum-E.png</IconFilename>
+                    <IconFilename>data/base/graphics/icons/ResiNeeds-Pack/NR-Garum-E.png</IconFilename>
                 </Standard>
                 <Text>
                     <OasisId>1600000116</OasisId>

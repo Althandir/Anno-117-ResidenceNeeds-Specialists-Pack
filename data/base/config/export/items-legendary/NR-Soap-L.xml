@@ -8,7 +8,7 @@
           <Standard>
             <GUID>1600000044</GUID>
             <Name>Specialist NR-Soap-L</Name>
-            <IconFilename>data/base/graphics/icons/ResiNeeds-Pack/m_NR-Soap-L.png</IconFilename>
+            <IconFilename>data/base/graphics/icons/ResiNeeds-Pack/NR-Soap-L.png</IconFilename>
             <InfoDescription>1600000045</InfoDescription>
           </Standard>
           <Effect>
@@ -99,7 +99,7 @@
           <Standard>
             <GUID>1600000045</GUID>
             <Name>Specialist NR-Soap-L BuildingBuff</Name>
-            <IconFilename>data/base/graphics/icons/ResiNeeds-Pack/m_NR-Soap-L.png</IconFilename>
+            <IconFilename>data/base/graphics/icons/ResiNeeds-Pack/NR-Soap-L.png</IconFilename>
           </Standard>
           <Text>
             <OasisId>1600000044</OasisId>
@@ -148,7 +148,7 @@
           <Standard>
             <GUID>1600000046</GUID>
             <Name>Specialist NR-Soap-L Boosted BuildingBuff </Name>
-            <IconFilename>data/base/graphics/icons/ResiNeeds-Pack/m_NR-Soap-L.png</IconFilename>
+            <IconFilename>data/base/graphics/icons/ResiNeeds-Pack/NR-Soap-L.png</IconFilename>
           </Standard>
           <Text>
             <OasisId>1600000044</OasisId>
