@@ -44,13 +44,13 @@
             <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
             <Values>
                 <PreConditionList>
-                <!-- Condition 1 - min. 3x Clothier on Area -->
+                <!-- Condition 1 - min. 6x Clothier on Area -->
                     <Condition>
                         <Template>ConditionObjectCount</Template>
                         <Values>
                             <Condition/>
                             <ConditionObjectCount>
-                                <Amount>3</Amount>
+                                <Amount>6</Amount>
                             </ConditionObjectCount>
                             <ObjectFilter>
                                 <ObjectGUID>50611</ObjectGUID>

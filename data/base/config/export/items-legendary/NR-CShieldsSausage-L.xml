@@ -40,7 +40,7 @@
           </Text>
 
           <ItemWithBoost>
-            <!-- Condition - min. 100 Sea Shells in Storage -->
+            <!-- Condition - min. 500 Sausage in Storage -->
             <BoostCondition>
               <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
               <Values>
