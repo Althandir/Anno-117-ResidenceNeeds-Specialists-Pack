@@ -292,7 +292,7 @@
         </Text>
         <!-- Boosted Hint -->
         <Text>
-            <Text>On the search for an specific Ring. (8x Jeweller on Island)</Text>
+            <Text>On the search for an specific Ring. (500 Necklaces in Storage)</Text>
             <LineId>1600000387</LineId> 
         </Text>
     </ModOp>
@@ -350,7 +350,7 @@
         </Text>
         <!-- Boosted Hint -->
         <Text>
-            <Text>Has a weak spot when it comes to gambling. (2x Gambling Houses on Island)</Text>
+            <Text>„Of course I’m holding the smoked sausage triumphantly in the air at every single parade to look ‚down-to-earth‘ for the Germanic auxiliaries. I’m a mercenary, by Jupiter, a man needs a reputation! What d'you think, I’m some kind of ruthless sausage demagogue?!“ &#xD;(500 Sausage in Storage)</Text>
             <LineId>1600000143</LineId> 
         </Text>
         </ModOp>
@@ -366,7 +366,7 @@
         </Text>
         <!-- Description -->
         <Text>
-            <Text>Always repairs stuff to gain experience.&#xD;(Altdolphin-Consumption-Pack)</Text>
+            <Text>Always repairs stuff to gain experience. Has a weakness for dates. &#xD;(Altdolphin-Consumption-Pack)</Text>
             <LineId>1600000032</LineId> 
         </Text>
         </ModOp>
@@ -419,7 +419,7 @@
         </Text>
         <!-- Boosted Hint -->
         <Text>
-            <Text>He has his tunics mended by the local tailor. (3x Clothiers on Island)</Text>
+            <Text>He has his tunics mended by the local tailor. (6x Clothiers on Island)</Text>
             <LineId>1600000502</LineId> 
         </Text>
         </ModOp>
