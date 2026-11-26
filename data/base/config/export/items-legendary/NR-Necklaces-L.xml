@@ -1,211 +1,198 @@
 <ModOps>
-<!-- Item Definition GUID:1600000385 - 1600000387 | LineID:1600000385 - 1600000387 -->
-<Group>
-<ModOp Type="addNextSibling" GUID="106410">
-    <Asset>
-    <Template>ItemWithBoost</Template>
-    <Values>
-        <Standard>
+  <!-- Item Definition GUID:1600000385 - 1600000387 | LineID:1600000385 - 1600000387 -->
+  <Group>
+    <ModOp Type="addNextSibling" GUID="106410">
+      <Asset>
+        <Template>ItemWithBoost</Template>
+        <Values>
+          <Standard>
             <GUID>1600000385</GUID>
             <Name>Specialist NR-Necklaces-L</Name>
             <IconFilename>data/base/graphics/icons/ResiNeeds-Pack/NR-Necklaces-L.png</IconFilename>
             <InfoDescription>1600000386</InfoDescription>
-        </Standard>
-        <Effect>
-            <EffectScope>Radius</EffectScope> 
+          </Standard>
+          <Effect>
+            <EffectScope>Radius</EffectScope>
             <SourceCategory>Item</SourceCategory>
             <Buffs>
-                <Item>
-                    <GUID>1600000386</GUID>
-                </Item>
+              <Item>
+                <GUID>1600000386</GUID>
+              </Item>
             </Buffs>
             <Targets> <!-- Targets of Buff -->
-                <Item>
-                    <GUID>31046</GUID>
-                </Item>
+              <Item>
+                <GUID>31046</GUID>
+              </Item>
             </Targets>
             <HideInGovernorsBar>1</HideInGovernorsBar>
-        </Effect>
-        <Item>
-            <Niche>Finance</Niche> 
+          </Effect>
+          <Item>
+            <Niche>Finance</Niche>
             <TradePrice><ModValue Insert="$TradePrice_Legendary"/></TradePrice>
             <BarkPool>80239</BarkPool> <!-- <GUID>80239</GUID> -->
-            <Rarity>Legendary</Rarity> 
-        </Item>
-        <Locked>
+            <Rarity>Legendary</Rarity>
+          </Item>
+          <Locked>
             <DefaultLockedState>0</DefaultLockedState>
-        </Locked>
-        <Text>
+          </Locked>
+          <Text>
             <OasisId>1600000385</OasisId>
-        </Text>
+          </Text>
 
-        <ItemWithBoost>
+          <ItemWithBoost>
+            <!-- Condition - min. 500 Necklaces in Storage -->
             <BoostCondition>
-            <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
-            <Values>
+              <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+              <Values>
                 <PreConditionList>
-                <!-- Condition 1 - min. 8x Jewellers on Area -->
-                    <Condition>
-                        <Template>ConditionObjectCount</Template>
-                        <Values>
-                            <Condition/>
-                            <ConditionObjectCount>
-                                <Amount>8</Amount>
-                            </ConditionObjectCount>
-                            <ObjectFilter>
-                                <ObjectGUID>3192</ObjectGUID>
-                                <ObjectLocations>
-                                    <Template>LocationFilter</Template>
-                                    <Values>
-                                        <LocationFilter>
-                                            <ObjectLocations>
-                                                <ObjectFilter>
-                                                    <Template>ObjectFilter</Template>
-                                                    <Values>
-                                                        <ObjectFilter>
-                                                            <UseContextObjects>1</UseContextObjects>
-                                                        </ObjectFilter>
-                                                    </Values>
-                                                </ObjectFilter>
-                                            </ObjectLocations>
-                                        </LocationFilter>
-                                    </Values>
-                                </ObjectLocations>
-                            </ObjectFilter>
-                        </Values>
-                    </Condition>
+                  <Condition>
+                    <Template>ConditionPlayerCounter</Template>
+                    <Values>
+                      <Condition/>
+                      <ConditionPlayerCounter>
+                        <PlayerCounter>GoodsInStock</PlayerCounter>
+                        <Context>2146</Context>
+                        <CounterAmount>500</CounterAmount>
+                        <CounterScope>Area</CounterScope>
+                      </ConditionPlayerCounter>
+                      <ConditionLocationProps/>
+                      <ConditionCounterProps/>
+                      <ConditionPropsComparable/>
+                      <ConditionPropsExaminableObjects/>
+                    </Values>
+                  </Condition>
                 </PreConditionList>
-            </Values>
+              </Values>
             </BoostCondition>
             <BoostBuffs>
-            <Item>
+              <Item>
                 <GUID>1600000387</GUID>
-            </Item>
+              </Item>
             </BoostBuffs>
             <BoostHint>1600000387</BoostHint>
-        </ItemWithBoost>
+          </ItemWithBoost>
 
-    </Values>
-    </Asset>
-</ModOp>
-</Group>
+        </Values>
+      </Asset>
+    </ModOp>
+  </Group>
 
-<!-- Buff Definitions-->
-<Group>
+  <!-- Buff Definitions-->
+  <Group>
     <!-- BuildingBuff Definition -->
     <ModOp Type="addNextSibling" GUID="80193">
-        <Asset>
-            <Template>BuildingBuff</Template>
-            <Values>
-                <Standard>
-                    <GUID>1600000386</GUID>
-                    <Name>Specialist NR-Necklaces-L BuildingBuff</Name>
-                    <IconFilename>data/base/graphics/icons/ResiNeeds-Pack/NR-Necklaces-L.png</IconFilename>
-                </Standard>
-                <Text>
-                    <OasisId>1600000385</OasisId>
-                </Text>
-                <Buff>
-                  <SourceCategory>Item</SourceCategory>
-                </Buff>
-                <ResidenceUpgrade>
-                    <GoodConsumptionUpgrade>
-                        <Item>
-                            <ProvidedNeedProduct>2146</ProvidedNeedProduct>
-                            <AmountInPercent><ModValue Insert="$ConsumptionModifier_Legendary"/></AmountInPercent>
-                        </Item>
-                    </GoodConsumptionUpgrade>
-                    <NeedProvidedNeedAttributes>
-                        <ChangeNeedAttributesOf>
-                            <Item>
-                                <ProvidedProduct>2146</ProvidedProduct> <!-- <GUID>2146</GUID> -->
-                            </Item>
-                        </ChangeNeedAttributesOf>
-                        <AdditionalNeedAttributes>
-                            <Money>
-                                <AmountOrPercent>
-                                    <Value>4</Value>
-                                    <Percental>0</Percental>
-                                </AmountOrPercent>
-                            </Money>
-                            <Belief>
-                                <AmountOrPercent>
-                                    <Value>1</Value>
-                                    <Percental>0</Percental>
-                                </AmountOrPercent>
-                            </Belief>
-                            <Knowledge>
-                                <AmountOrPercent>
-                                    <Value>-1</Value>
-                                    <Percental>0</Percental>
-                                </AmountOrPercent>
-                            </Knowledge>
-                        </AdditionalNeedAttributes>
-                    </NeedProvidedNeedAttributes>
-                </ResidenceUpgrade>
-            </Values>
-        </Asset>
+      <Asset>
+        <Template>BuildingBuff</Template>
+        <Values>
+          <Standard>
+            <GUID>1600000386</GUID>
+            <Name>Specialist NR-Necklaces-L BuildingBuff</Name>
+            <IconFilename>data/base/graphics/icons/ResiNeeds-Pack/NR-Necklaces-L.png</IconFilename>
+          </Standard>
+          <Text>
+            <OasisId>1600000385</OasisId>
+          </Text>
+          <Buff>
+            <SourceCategory>Item</SourceCategory>
+          </Buff>
+          <ResidenceUpgrade>
+            <GoodConsumptionUpgrade>
+              <Item>
+                <ProvidedNeedProduct>2146</ProvidedNeedProduct>
+                <AmountInPercent><ModValue Insert="$ConsumptionModifier_Legendary"/></AmountInPercent>
+              </Item>
+            </GoodConsumptionUpgrade>
+            <NeedProvidedNeedAttributes>
+              <ChangeNeedAttributesOf>
+                <Item>
+                  <ProvidedProduct>2146</ProvidedProduct> <!-- <GUID>2146</GUID> -->
+                </Item>
+              </ChangeNeedAttributesOf>
+              <AdditionalNeedAttributes>
+                <Money>
+                  <AmountOrPercent>
+                    <Value>4</Value>
+                    <Percental>0</Percental>
+                  </AmountOrPercent>
+                </Money>
+                <Belief>
+                  <AmountOrPercent>
+                    <Value>1</Value>
+                    <Percental>0</Percental>
+                  </AmountOrPercent>
+                </Belief>
+                <Knowledge>
+                  <AmountOrPercent>
+                    <Value>-1</Value>
+                    <Percental>0</Percental>
+                  </AmountOrPercent>
+                </Knowledge>
+              </AdditionalNeedAttributes>
+            </NeedProvidedNeedAttributes>
+          </ResidenceUpgrade>
+        </Values>
+      </Asset>
     </ModOp>
 
     <!-- Boosted BuildingBuff Definition -->
     <ModOp Type="addNextSibling" GUID="80193">
-        <Asset>
-            <Template>BuildingBuff</Template>
-            <Values>
-                <Standard>
-                    <GUID>1600000387</GUID>
-                    <Name>Specialist NR-Necklaces-L BuildingBuff</Name>
-                    <IconFilename>data/base/graphics/icons/ResiNeeds-Pack/NR-Necklaces-L.png</IconFilename>
-                </Standard>
-                <Text>
-                    <OasisId>1600000385</OasisId>
-                </Text>
-                <Buff>
-                  <SourceCategory>Item</SourceCategory>
-                </Buff>
-                <ResidenceUpgrade>
-                    <GoodConsumptionUpgrade>
-                        <Item>
-                            <ProvidedNeedProduct>2146</ProvidedNeedProduct>
-                            <AmountInPercent><ModValue Insert="$ConsumptionModifier_Legendary"/></AmountInPercent>
-                        </Item>
-                    </GoodConsumptionUpgrade>
-                    <NeedProvidedNeedAttributes>
-                        <ChangeNeedAttributesOf>
-                            <Item>
-                                <ProvidedProduct>2146</ProvidedProduct> <!-- <GUID>2146</GUID> -->
-                            </Item>
-                        </ChangeNeedAttributesOf>
-                        <AdditionalNeedAttributes>
-                            <Money>
-                                <AmountOrPercent>
-                                    <Value>4</Value>
-                                    <Percental>0</Percental>
-                                </AmountOrPercent>
-                            </Money>
-                            <Belief>
-                                <AmountOrPercent>
-                                    <Value>2</Value>
-                                    <Percental>0</Percental>
-                                </AmountOrPercent>
-                            </Belief>                            
-                            <Prestige>
-                                <AmountOrPercent>
-                                    <Value>3</Value>
-                                    <Percental>0</Percental>
-                                </AmountOrPercent>
-                            </Prestige>
-                            <Knowledge>
-                                <AmountOrPercent>
-                                    <Value>-1</Value>
-                                    <Percental>0</Percental>
-                                </AmountOrPercent>
-                            </Knowledge>
-                        </AdditionalNeedAttributes>
-                    </NeedProvidedNeedAttributes>
-                </ResidenceUpgrade>
-            </Values>
-        </Asset>
+      <Asset>
+        <Template>BuildingBuff</Template>
+        <Values>
+          <Standard>
+            <GUID>1600000387</GUID>
+            <Name>Specialist NR-Necklaces-L BuildingBuff</Name>
+            <IconFilename>data/base/graphics/icons/ResiNeeds-Pack/NR-Necklaces-L.png</IconFilename>
+          </Standard>
+          <Text>
+            <OasisId>1600000385</OasisId>
+          </Text>
+          <Buff>
+            <SourceCategory>Item</SourceCategory>
+          </Buff>
+          <ResidenceUpgrade>
+            <GoodConsumptionUpgrade>
+              <Item>
+                <ProvidedNeedProduct>2146</ProvidedNeedProduct>
+                <AmountInPercent><ModValue Insert="$ConsumptionModifier_Legendary"/></AmountInPercent>
+              </Item>
+            </GoodConsumptionUpgrade>
+            <NeedProvidedNeedAttributes>
+              <ChangeNeedAttributesOf>
+                <Item>
+                  <ProvidedProduct>2146</ProvidedProduct> <!-- <GUID>2146</GUID> -->
+                </Item>
+              </ChangeNeedAttributesOf>
+              <AdditionalNeedAttributes>
+                <Money>
+                  <AmountOrPercent>
+                    <Value>4</Value>
+                    <Percental>0</Percental>
+                  </AmountOrPercent>
+                </Money>
+                <Belief>
+                  <AmountOrPercent>
+                    <Value>2</Value>
+                    <Percental>0</Percental>
+                  </AmountOrPercent>
+                </Belief>
+                <Prestige>
+                  <AmountOrPercent>
+                    <Value>3</Value>
+                    <Percental>0</Percental>
+                  </AmountOrPercent>
+                </Prestige>
+                <Knowledge>
+                  <AmountOrPercent>
+                    <Value>-1</Value>
+                    <Percental>0</Percental>
+                  </AmountOrPercent>
+                </Knowledge>
+              </AdditionalNeedAttributes>
+            </NeedProvidedNeedAttributes>
+          </ResidenceUpgrade>
+        </Values>
+      </Asset>
     </ModOp>
 
   </Group>

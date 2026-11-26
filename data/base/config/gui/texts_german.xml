@@ -292,7 +292,7 @@
         </Text>
         <!-- Boosted Hint -->
         <Text>
-            <Text>Sucht einen ganz besonderen Ring. (8x Juwelier auf der Insel)</Text>
+            <Text>Sucht einen ganz besonderen Ring. (500 Halsketten im Lager)</Text>
             <LineId>1600000387</LineId> 
         </Text>
     </ModOp>
@@ -350,7 +350,7 @@
         </Text>
         <!-- Boosted Hint -->
         <Text>
-            <Text>"Natürlich halte ich bei jeder Parade triumphierend eine geräucherte Wurst in die Luft, um für die germanischen Auxillare ‚bodenständig‘ zu wirken. Beim Jupiter, ein Söldner braucht einen guten Ruf! Was denkt ihr eigentlich, was ich bin?! Irgendein skrupelloser Wurst-Demagoge?!" &#xD;(500 Sausages in Storage)</Text>
+            <Text>"Natürlich halte ich bei jeder Parade triumphierend eine geräucherte Wurst in die Luft, um für die germanischen Auxillare ‚bodenständig‘ zu wirken. Beim Jupiter, ein Söldner braucht einen guten Ruf! Was denkt ihr eigentlich, was ich bin?! Irgendein skrupelloser Wurst-Demagoge?!" &#xD;(500 Würste im Lager)</Text>
             <LineId>1600000143</LineId> 
         </Text>
         </ModOp>
@@ -419,7 +419,7 @@
         </Text>
         <!-- Boosted Hint -->
         <Text>
-            <Text>Lässt sich seine Tuniken beim lokalen Schneider flicken. (3x Schneidereien on Island)</Text>
+            <Text>Lässt sich seine Tuniken beim lokalen Schneider flicken. (6x Schneidereien auf Insel)</Text>
             <LineId>1600000502</LineId> 
         </Text>
         </ModOp>
